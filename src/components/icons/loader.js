@@ -2,11 +2,6 @@ import React from 'react';
 
 const IconLoader = () => (
   <svg id="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-    <defs>
-      <style>
-          @import url('https://fonts.googleapis.com/css?family=Calibri:400,400i,700,700i');
-      </style>
-    </defs>
     <title>Loader Logo</title>
     <g>
       <g id="B" transform="translate(11.000000, 5.000000)">
