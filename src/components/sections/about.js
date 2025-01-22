@@ -137,11 +137,11 @@ const About = () => {
               Moin! My name is Stefano and I am a Senior Software Engineer, Architect and (Google
               Cloud) Platform Engineer. Having more than 12 years of experience in software
               development, I have worked on a variety of projects ranging from large enterprise
-              systems to small web applications on a freelancer basis.
+              systems to small web applications.
             </p>
 
             <p>
-              My main focus these days is Software Engineering for backend applications, however a
+              My main focus these days is Freelance Software Engineering for backend applications, however a
               couple of times I have also digged into the frontend world, coding a couple of Vue3.js
               + Vuetify components.
             </p>

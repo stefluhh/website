@@ -65,8 +65,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a freelance software engineer specializing in building backend applications in the Cloud.
-        Currently, I’m focused on building Spring Boot microservice applications in Google Cloud as
+        I am a freelance software engineer specializing in building backend applications in the Cloud.
+        Currently, I am focused on building Spring Boot microservice applications in Google Cloud as
         a Freelancer.
       </p>
     </>
