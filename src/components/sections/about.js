@@ -135,9 +135,9 @@ const About = () => {
           <div>
             <p>
               Moin! My name is Stefano and I am a Senior Software Engineer, Architect and (Google
-              Cloud) Platform Engineer. Having more than 12 years of experience in software
+              Cloud) Platform Engineer. Having more than 12 years of professional experience in software
               development, I have worked on a variety of projects ranging from large enterprise
-              systems to small web applications.
+              systems to microservice web applications.
             </p>
 
             <p>

@@ -65,7 +65,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I am a freelance software engineer specializing in building backend applications in the Cloud.
+        I am a Principal Software Engineer specializing in building backend applications in the Cloud.
         Currently, I am focused on building Spring Boot microservice applications in Google Cloud as
         a Freelancer.
       </p>
