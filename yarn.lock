@@ -6031,14 +6031,6 @@ gatsby-page-utils@^1.4.0:
     lodash "^4.17.21"
     micromatch "^4.0.2"
 
-gatsby-plugin-google-analytics@^3.4.0:
-  version "3.4.0"
-  resolved "https://registry.npmjs.org/gatsby-plugin-google-analytics/-/gatsby-plugin-google-analytics-3.4.0.tgz#4630d0d8f2f37806be50de9bb3e120f4045150d1"
-  integrity sha512-dH/ZHPo8fzQq5DoFVR6oMd1n3xnsmvvy+CTzzaWCNxF5DGikTJFuIvUm3nLchBuRkfIlj2UbDkJfuPGwmfkTqw==
-  dependencies:
-    "@babel/runtime" "^7.12.5"
-    minimatch "3.0.4"
-
 gatsby-plugin-image@^1.4.0:
   version "1.4.0"
   resolved "https://registry.npmjs.org/gatsby-plugin-image/-/gatsby-plugin-image-1.4.0.tgz#4271f3d6e6824b4f631833591931fb9fd3f15aa9"
@@ -6056,17 +6048,6 @@ gatsby-plugin-image@^1.4.0:
     gatsby-core-utils "^2.4.0"
     objectFitPolyfill "^2.3.0"
     prop-types "^15.7.2"
-
-gatsby-plugin-manifest@^3.4.0:
-  version "3.4.0"
-  resolved "https://registry.npmjs.org/gatsby-plugin-manifest/-/gatsby-plugin-manifest-3.4.0.tgz#760a22cf13ccb9660eebf732f312d71b263c9021"
-  integrity sha512-QlsZQFLW5MRptnbod/vYqzO0kYnOq4I3/kow79icgbkqaHn097PP4F1tP4pahG0LVrkhyTfBkH8vLDB1vUSexg==
-  dependencies:
-    "@babel/runtime" "^7.12.5"
-    gatsby-core-utils "^2.4.0"
-    gatsby-plugin-utils "^1.4.0"
-    semver "^7.3.2"
-    sharp "^0.28.0"
 
 gatsby-plugin-netlify@^3.4.0:
   version "3.4.0"
@@ -6282,15 +6263,6 @@ gatsby-remark-images@^5.1.0:
     query-string "^6.13.3"
     unist-util-select "^3.0.4"
     unist-util-visit-parents "^3.1.1"
-
-gatsby-remark-prismjs@^5.1.0:
-  version "5.1.0"
-  resolved "https://registry.npmjs.org/gatsby-remark-prismjs/-/gatsby-remark-prismjs-5.1.0.tgz#1c0ad938d453e9c75955c920e398ac96be2eee52"
-  integrity sha512-Gx5v3dJ1LEbL+PQ3C0ExIwcUicDFwIJ9cv4aale8PZrlpQyfx6Z5N4NRaN2t+Vherhidm+Ygy6zJEqI20yds+Q==
-  dependencies:
-    "@babel/runtime" "^7.12.5"
-    parse-numeric-range "^1.2.0"
-    unist-util-visit "^2.0.3"
 
 gatsby-source-filesystem@^3.4.0:
   version "3.4.0"
@@ -10310,11 +10282,6 @@ parse-latin@^4.0.0:
     nlcst-to-string "^2.0.0"
     unist-util-modify-children "^2.0.0"
     unist-util-visit-children "^1.0.0"
-
-parse-numeric-range@^1.2.0:
-  version "1.2.0"
-  resolved "https://registry.npmjs.org/parse-numeric-range/-/parse-numeric-range-1.2.0.tgz#aa70b00f29624ed13e9f943e9461b306e386b0fa"
-  integrity sha512-1q2tXpAOplPxcl8vrIGPWz1dJxxfmdRkCFcpxxMBerDnGuuHalOWF/xj9L8Nn5XoTUoB/6F0CeQBp2fMgkOYFg==
 
 parse-path@^4.0.0:
   version "4.0.3"

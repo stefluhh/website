@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
+import { Link } from "gatsby"
 import { Icon } from '@components/icons';
 import { socialMedia } from '@config';
 
@@ -86,6 +87,7 @@ const Footer = () => (
         <div style={{ color: '#444444' }}>Template powered by B. Chiang</div>
       </a>
     </StyledCredit>
+    <Link to="/impressum">Impressum</Link>
   </StyledFooter>
 );
 
