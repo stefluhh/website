@@ -87,7 +87,13 @@ const Footer = () => (
         <div style={{ color: '#444444' }}>Template powered by B. Chiang</div>
       </a>
     </StyledCredit>
-    <Link to="/impressum">Impressum</Link>
+    <div style={{
+      alignSelf: 'end',
+      marginRight: '130px',
+    }}>
+      <Link to="/impressum">Legal |</Link>
+      <Link to="/datenschutz">&nbsp;Data Privacy</Link>
+    </div>
   </StyledFooter>
 );
 

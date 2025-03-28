@@ -1,22 +1,22 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import styled from 'styled-components';
-import { Layout, StyledImpressumSection } from '@components';
+import { Layout, StyledDatenschutzSection } from '@components';
 
 const StyledMainContainer = styled.main`
   counter-reset: section;
 `;
 
-const ImpressumPage = ({ location }) => (
+const DatenschutzPage = ({ location }) => (
   <Layout location={location}>
     <StyledMainContainer className="fillHeight">
-      <StyledImpressumSection/>
+      <StyledDatenschutzSection/>
     </StyledMainContainer>
   </Layout>
 );
 
-ImpressumPage.propTypes = {
+DatenschutzPage.propTypes = {
   location: PropTypes.object.isRequired,
 };
 
-export default ImpressumPage;
+export default DatenschutzPage;
